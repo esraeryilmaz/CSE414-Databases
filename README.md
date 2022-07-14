@@ -1,2 +1,2 @@
-# CSE414-Databases
- CSE414 Databases Course Homeworks
+# CSE414 Databases Course Homeworks
+Pharmacy Management System Project
